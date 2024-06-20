@@ -1,0 +1,26 @@
+{
+  "name": "snippetsearch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nach-33/SnippetSearch.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nach-33/SnippetSearch/issues"
+  },
+  "homepage": "https://github.com/Nach-33/SnippetSearch#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mongoose": "^6.9.1",
+    "nodemon": "^2.0.20"
+  }
+}
